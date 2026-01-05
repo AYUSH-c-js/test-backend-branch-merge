@@ -1,1 +1,1 @@
-// ayush is king
+// ayush is given a number n and q queries. In each query he is given a number x. He has to tell whether x is present in the array or not. As a reminder, your code has to be in c++
